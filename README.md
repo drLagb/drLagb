@@ -1,10 +1,4 @@
-<style>
-    html{
-        color: red;
-    }
-</style>
-
-<ul>
+<ul style="color:red">
 <li>esto es una pequeña prueba</li>
 </ul>
 
