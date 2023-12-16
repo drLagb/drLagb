@@ -1,5 +1,5 @@
-<div align="center" width="120">
-  <img width="120" src="https://i.pinimg.com/originals/94/81/30/948130e1b398d9b8150275ebe21470cb.gif">
+<div align="center" width="120rem">
+  <img width="120rem" src="https://i.pinimg.com/originals/94/81/30/948130e1b398d9b8150275ebe21470cb.gif">
 </div>
 
 <h1 align="center">Hi 👋, I'm Luis <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
