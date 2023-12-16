@@ -33,6 +33,11 @@
 
 ![Static Badge](https://img.shields.io/badge/-blue?style=for-the-badge&logo=c&logoColor=white&link=https%3A%2F%2Fwww.gnu.org%2Fsoftware%2Flibc%2Fmanual%2Fhtml_node%2FISO-C.html)
 
+<p align="center">
+  <a href="https://www.gnu.org/software/libc/manual/html_node/ISO-C.html" target="_blank">
+    <img src="https://img.shields.io/badge/-blue?style=for-the-badge&logo=c&logoColor=white">
+  </a>
+</p>
 <p align="center"> 
   <a href="https://www.w3.org/html/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
