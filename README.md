@@ -7,6 +7,8 @@
 
 - 👯 I’m looking to collaborate on **front-end and back-end projects**
 
+- 💪 I'm using the MERN stack
+
 - 📫 How to reach me: **drlagb1703@gmail.com**
 
 - ⚡ What I like to do: **I like so much reading, play piano and taekwondo...and coding of course**
