@@ -29,13 +29,25 @@
 <h3 align="center">Languages and Tools:</h3>
 
 <div align="center" style="margin-left: 10px;">
-  <a color="black" href="https://www.gnu.org/software/libc/manual/html_node/ISO-C.html" target="_blank">
-    <img src="https://img.shields.io/badge/C-blue?style=for-the-badge&logo=C&logoColor=white">
+  <a color="black" href="https://www.w3.org/html/" target="_blank"> 
+    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/> 
   </a>
   <a color="black" href="https://www.w3schools.com/css/" target="_blank"> 
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/> 
   </a> 
-  <a color="black" href="https://www.w3.org/html/" target="_blank"> 
-    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+      <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript"/> 
+  </a> 
+  <a color="black" href="https://www.gnu.org/software/libc/manual/html_node/ISO-C.html" target="_blank">
+    <img src="https://img.shields.io/badge/C-blue?style=for-the-badge&logo=C&logoColor=white">
   </a>
+  <a color="black" href="https://isocpp.org/" target="_blank">
+    <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  </a>
+  <a color="black" href="https://learn.microsoft.com/es-es/dotnet/csharp/" target="_blank">
+    <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
+  </a>
+  <a href="https://www.python.org" target="_blank"> 
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python"/> 
+  </a> 
 </div>
