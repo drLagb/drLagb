@@ -29,7 +29,7 @@
 <h3 align="center">Languages and Tools:</h3>
 
 <div align="center" style="margin-left: 10px;">
-  <a href="https://www.gnu.org/software/libc/manual/html_node/ISO-C.html" target="_blank">
+  <a color="black" href="https://www.gnu.org/software/libc/manual/html_node/ISO-C.html" target="_blank">
     <img src="https://img.shields.io/badge/C-blue?style=for-the-badge&logo=C&logoColor=white">
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank"> 
