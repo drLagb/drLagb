@@ -48,8 +48,7 @@
     <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
   </a>
   <a href="https://www.java.com/es/" target="_blank"> 
-    <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=oracle&logoColor=white
-" alt="Java"/> 
+    <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=oracle&logoColor=white" alt="Java"/> 
   </a> 
   <a href="https://www.python.org" target="_blank"> 
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/> 
