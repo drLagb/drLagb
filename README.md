@@ -30,7 +30,7 @@
 
 <div align="center" style="display: flex">
   <a href="https://www.gnu.org/software/libc/manual/html_node/ISO-C.html" target="_blank">
-    <img src="httxps://img.shields.io/badge/C-blue?style=for-the-badge&logo=c&logoColor=white">
+    <img src="https://img.shields.io/badge/C-blue?style=for-the-badge&logo=C&logoColor=white">
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank"> 
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/> 
