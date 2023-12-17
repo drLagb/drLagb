@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Luis <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 <h3 align="center">A passionate Javascript developer from Colombia</h3>
 
-- 🔭 I’m currently working on my **my webs sides**
+- 🔭 I’m currently working on my **my websides**
 
 - 🌱 I’m currently learning **next js**
 
